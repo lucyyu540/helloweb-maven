@@ -1,5 +1,2 @@
 # Hello Web Maven Project
-### 1. Maven web project Example
--
-### 2. 
--
+### this is literally a web maven project rendering a single html file for testing purposes 
